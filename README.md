@@ -2,3 +2,4 @@
 Objectives:
 * Know how blockchain works.
 * Simple project work.
+* Design workflow.
